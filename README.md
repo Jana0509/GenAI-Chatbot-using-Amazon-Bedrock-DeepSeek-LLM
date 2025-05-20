@@ -3,6 +3,9 @@
 This project is a fully functional **Generative AI chatbot application** built using **Amazon Bedrock**, powered by the **DeepSeek LLM**. It combines a serverless backend using LangChain with a dynamic, interactive frontend built in Streamlit.
 
 ---
+## Architecture
+
+![architecture](https://github.com/user-attachments/assets/3685b15a-aeee-4eeb-8131-147c54314324)
 
 ## 🚀 Features
 

@@ -54,14 +54,7 @@ This project is a fully functional **Generative AI chatbot application** built u
 
 ## 💬 Demo
 
-> Coming soon: Live demo + deployment instructions.
+![Video](https://github.com/user-attachments/assets/1eb8c735-a252-4a6a-819d-3b361d785757)
 
----
 
-## 🛠️ Setup Instructions
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/genai-bedrock-chatbot.git
-   cd genai-bedrock-chatbot
 
